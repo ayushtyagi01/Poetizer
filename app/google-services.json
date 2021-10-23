@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123362984762",
+    "project_id": "shareit-ff058",
+    "storage_bucket": "shareit-ff058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123362984762:android:d2d5773e0ad426a205c603",
+        "android_client_info": {
+          "package_name": "com.example.shareit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123362984762-htsh48s9hi8fudlh4mklg3dtptoebr5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0rY3Zh_QGz7cE6bzJOx-pE-yUqV1IHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123362984762-htsh48s9hi8fudlh4mklg3dtptoebr5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

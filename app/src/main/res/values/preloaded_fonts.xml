@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/actor</item>
+        <item>@font/aladin</item>
+        <item>@font/amarante</item>
+        <item>@font/assistant</item>
+        <item>@font/bree_serif</item>
+        <item>@font/bubbler_one</item>
+        <item>@font/cantarell</item>
+        <item>@font/cinzel</item>
+        <item>@font/comfortaa_bold</item>
+        <item>@font/nobile</item>
+        <item>@font/pt_sans_narrow</item>
+    </array>
+</resources>
